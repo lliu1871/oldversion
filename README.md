@@ -1,2 +1,2 @@
 # oldversion
-This repository contains old versions of the programs for phylogenetic inference
+This repository contains the old versions of the phylogenetic programs BEGFE and MP-EST
